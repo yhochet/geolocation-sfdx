@@ -32,28 +32,28 @@
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505858167654,
             "changeTime": 1505858167654,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1505858329005,
-            "changeTime": 1505858329005,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "modifiedTime": 1505857905410,
+            "changeTime": 1505857905410,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -710,53 +710,53 @@
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5659,
             "modifiedTime": 1505858167656,
             "changeTime": 1505858167656,
-            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290"
         }
     ],
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5999,
             "modifiedTime": 1505858167657,
             "changeTime": 1505858167657,
-            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c"
         }
     ],
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18117,
             "modifiedTime": 1505858167658,
             "changeTime": 1505858167658,
-            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf"
         }
     ],
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5663,
             "modifiedTime": 1505858167659,
             "changeTime": 1505858167659,
-            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc"
         }
     ],
     [
@@ -856,7 +856,7 @@
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1505858167659,
+            "modifiedTime": 1505857325079,
             "changeTime": 1505857325079,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
@@ -931,14 +931,14 @@
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1505857950151,
+            "changeTime": 1505857950151,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 150,
-            "modifiedTime": 1505858455328,
-            "changeTime": 1505858455328,
-            "contentHash": "04db837564b27e22e3191de3b2bbbbec5ca4b859"
+            "state": "u"
         }
     ],
     [
@@ -1009,209 +1009,27 @@
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1505858167655,
             "changeTime": 1505858167655,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505858167655,
             "changeTime": 1505858167655,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1505858329016,
-            "changeTime": 1505858329016,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1505858185043,
-            "changeTime": 1505858185043,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 340,
-            "modifiedTime": 1505858367390,
-            "changeTime": 1505858367390,
-            "contentHash": "2b05de2582336ed727db8c85c4379053109bdd20"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1505858329008,
-            "changeTime": 1505858329008,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1505858422951,
-            "changeTime": 1505858422951,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1505858403504,
-            "changeTime": 1505858403504,
-            "contentHash": "c419962b0a578db6daaa2391f8f9d89e4218c947"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1505858329014,
-            "changeTime": 1505858329014,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1505858329016,
-            "changeTime": 1505858329016,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 121,
-            "modifiedTime": 1505858220087,
-            "changeTime": 1505858220087,
-            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1505858185032,
-            "changeTime": 1505858185032,
-            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 172,
-            "modifiedTime": 1505858304505,
-            "changeTime": 1505858304505,
-            "contentHash": "bfd9ac75e73f2431710714aed417486c812db41c"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1505858185036,
-            "changeTime": 1505858185036,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1505858185038,
-            "changeTime": 1505858185038,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\yht\\projectDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1505858185043,
-            "changeTime": 1505858185043,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ]
 ]
